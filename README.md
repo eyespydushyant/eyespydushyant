@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Dushyant Sharma
-
-<img src="YOUR_GIF_URL_HERE" width="450"/>
+<img src="https://i.pinimg.com/originals/6d/29/cc/6d29cc48ad122d9f1f3becb2c7b7b27d.gif" width="450"/>
 
 ### 💻 Computer Science Student | 🤖 Machine Learning Enthusiast 
 
