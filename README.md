@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Dushyant Sharma 👋<br><br>I'm a Computer Science student passionate about Machine Learning, Data Science, and Full-Stack Development. I enjoy building real-world projects, exploring new technologies, and solving problems through code. I'm continuously learning and sharing my work on GitHub.
+Hi, I'm Dushyant Sharma 👋<br><br>I'm a Computer Science student passionate about Machine Learning, Data Science, and Full-Stack Development. 
+I enjoy building real-world projects, exploring new technologies, and solving problems through code. I'm continuously learning and sharing my work on GitHub.
 
 
 ## 🌐 Socials:
