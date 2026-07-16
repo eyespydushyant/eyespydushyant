@@ -1,3 +1,5 @@
+
+<img align="right" alt="Coding" width="350" src="(https://i.pinimg.com/originals/6d/29/cc/6d29cc48ad122d9f1f3becb2c7b7b27d.gif)">
 # 💫 About Me:
 Hi, I'm Dushyant Sharma 👋<br><br>I'm a Computer Science student passionate about Machine Learning, Data Science, and Full-Stack Development. 
 I enjoy building real-world projects, exploring new technologies, and solving problems through code. I'm continuously learning and sharing my work on GitHub.
