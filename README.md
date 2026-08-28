@@ -53,13 +53,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=eyespydushyant&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=eyespydushyant&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyespydushyant&layout=compact&theme=tokyonight)
 
 ---
 
